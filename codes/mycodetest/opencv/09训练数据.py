@@ -48,7 +48,3 @@ if __name__ == '__main__':
     #保存文件
     recognizer.write('trainer/trainer.yml')
     #save_to_file('names.txt',names)
-
-
-
-

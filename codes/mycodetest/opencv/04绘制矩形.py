@@ -15,11 +15,3 @@ while True:
         break
 #释放内存
 cv.destroyAllWindows()
-
-
-
-# **********
-# bilibili：竞赛空间
-# 公众号：竞赛空间
-# 淘宝：竞赛空间
-# **********
